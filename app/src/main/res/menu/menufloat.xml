@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btnSetWall"
+        android:icon="@drawable/ic_check"
+        android:title="Set As Wallpaper" />
+    <item
+        android:id="@+id/btnShow"
+        android:icon="@drawable/ic_play"
+        android:title="Slide Show" />
+    <item
+        android:id="@+id/btnShare"
+        android:icon="@drawable/ic_share"
+        android:title="Share" />
+    <item
+        android:id="@+id/btnSave"
+        android:icon="@drawable/ic_save"
+        android:title="Save" />
+    <item
+        android:id="@+id/btnZoom"
+        android:icon="@drawable/ic_zoom"
+        android:title="Zoom" />
+</menu>

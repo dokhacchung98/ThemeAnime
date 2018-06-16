@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="all">
+        <item
+            android:id="@+id/menuRecent"
+            android:icon="@drawable/ic_other_appname"
+            android:title="Home" />
+        <item
+            android:id="@+id/menuList"
+            android:icon="@drawable/ic_drawer_category"
+            android:title="Anime Series" />
+        <item
+            android:id="@+id/menuFavoite"
+            android:icon="@drawable/ic_drawer_favorite"
+            android:title="Favorite" />
+        <item
+            android:id="@+id/menuAbout"
+            android:icon="@drawable/ic_other_build"
+            android:title="About" />
+    </group>
+</menu>
